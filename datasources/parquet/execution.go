@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/parquet-go/parquet-go"
+	"github.com/segmentio/parquet-go"
 
 	. "github.com/cube2222/octosql/execution"
 	"github.com/cube2222/octosql/octosql"

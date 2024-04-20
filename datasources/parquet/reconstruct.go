@@ -1,4 +1,4 @@
-// This file is based on the reconstructor code in "github.com/parquet-go/parquet-go".
+// This file is based on the reconstructor code in "github.com/segmentio/parquet-go".
 //
 //   Copyright 2022 segment.io
 //
@@ -28,7 +28,7 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"github.com/parquet-go/parquet-go"
+	"github.com/segmentio/parquet-go"
 
 	"github.com/cube2222/octosql/octosql"
 )
