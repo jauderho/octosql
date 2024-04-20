@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	querypb "github.com/cube2222/octosql/parser/sqlparser/dependency/query"
-	"github.com/golang/protobuf/proto"
+	"google.golang.org/protobuf/proto"
 )
 
 func TestEventTokenMinimum(t *testing.T) {
