@@ -1,4 +1,4 @@
-module github.com/jauderho/octosql
+module github.com/cube2222/octosql
 
 go 1.22.0
 
@@ -9,8 +9,7 @@ require (
 	github.com/adrg/xdg v0.5.0
 	github.com/awalterschulze/gographviz v2.0.3+incompatible
 	github.com/c-bata/go-prompt v0.2.6
-	github.com/cube2222/octosql v0.13.0
-	github.com/dgraph-io/ristretto v0.1.1
+	github.com/dgraph-io/ristretto v1.0.0
 	github.com/google/btree v1.1.3
 	github.com/gosuri/uilive v0.0.4
 	github.com/jackc/pgx/v4 v4.18.3
@@ -44,9 +43,8 @@ require (
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/felixge/fgprof v0.9.5 // indirect
+	github.com/frankban/quicktest v1.14.6 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/golang/glog v1.2.2 // indirect
-	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/pprof v0.0.0-20240910150728-a0b0bb1d4134 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -58,9 +56,7 @@ require (
 	github.com/jackc/pgproto3/v2 v2.3.3 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/pgtype v1.14.3 // indirect
-	github.com/jackc/pgx v3.6.2+incompatible // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
-	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.16 // indirect
