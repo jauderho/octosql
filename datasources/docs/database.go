@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	_ "github.com/jackc/pgx/stdlib"
+	_ "github.com/jackc/pgx/v4/stdlib"
 
 	"github.com/cube2222/octosql/octosql"
 	"github.com/cube2222/octosql/physical"

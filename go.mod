@@ -13,7 +13,7 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/google/btree v1.1.2
 	github.com/gosuri/uilive v0.0.4
-	github.com/jackc/pgx v3.6.2+incompatible
+	github.com/jackc/pgx/v4 v4.18.3
 	github.com/kr/text v0.2.0
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/mitchellh/go-homedir v1.1.0
@@ -27,7 +27,7 @@ require (
 	github.com/segmentio/parquet-go v0.0.0-20220421002521-93f8e5ed3407
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/spf13/cobra v1.4.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/tidwall/btree v1.3.1
 	github.com/valyala/fastjson v1.6.3
 	github.com/zyedidia/generic v1.1.0
@@ -40,18 +40,21 @@ require (
 require (
 	github.com/andybalholm/brotli v1.0.3 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
-	github.com/cockroachdb/apd v1.1.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/frankban/quicktest v1.14.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
+	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
+	github.com/jackc/pgconn v1.14.3 // indirect
+	github.com/jackc/pgio v1.0.0 // indirect
+	github.com/jackc/pgpassfile v1.0.0 // indirect
+	github.com/jackc/pgproto3/v2 v2.3.3 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
+	github.com/jackc/pgtype v1.14.0 // indirect
 	github.com/klauspost/compress v1.15.2 // indirect
-	github.com/lib/pq v1.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
@@ -62,7 +65,6 @@ require (
 	github.com/pkg/term v1.2.0-beta.2 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/segmentio/encoding v0.3.5 // indirect
-	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
