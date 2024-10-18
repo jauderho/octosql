@@ -31,7 +31,7 @@ require (
 	github.com/zyedidia/generic v1.1.0
 	golang.org/x/exp v0.0.0-20220414153411-bcd21879b8fd
 	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
